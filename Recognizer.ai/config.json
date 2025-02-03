@@ -1,0 +1,11 @@
+{
+
+    "adir": "C:/Users/User/Documents/Recognizer.ai/UrbanSound8K/audio",
+    "odir": "C:/Users/User/Documents/Recognizer.ai/output",
+    "dbpath": "C:/Users/User/Documents/Recognizer.ai/spectrogram.db",
+    "csv": "C:/Users/User/Documents/Recognizer.ai/UrbanSound8K/metadata/UrbanSound8K.csv",
+    "root": "C:/Users/User/Documents/Recognizer.ai",
+    "model": "C:/Users/User/Documents/Recognizer.ai/best_model.keras"
+    
+
+}
